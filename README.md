@@ -1,0 +1,1 @@
+# A-Novel-Algorithmic-Data-Collision-SDRAM-Based-TCAM-Architecture-Using-DDR-SDRAM-On-FPGA
